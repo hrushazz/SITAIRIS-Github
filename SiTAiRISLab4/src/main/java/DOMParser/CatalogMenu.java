@@ -18,7 +18,7 @@ public class CatalogMenu {
             System.out.println("2 - удалить");
             System.out.println("3 - просмотреть");
             System.out.println("4 - найти");
-            System.out.println("0 - выйти");
+            System.out.println("0 - ВЫЙТИ");
             System.out.print("Ваш выбор: ");
 
             int choice = 0;

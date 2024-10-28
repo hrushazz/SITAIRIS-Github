@@ -28,7 +28,7 @@ public class CatalogMenu {
                     is_correct = true;
                     choice = scanner.nextInt();
                 } catch (Exception ex) {
-                    System.out.println("Произошла ошибка! Повторите попытку: ");
+                    System.out.println("Произошла ошибка! Повторите: ");
                     is_correct = false;
                     scanner.next();
                 }

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog>
+                
+    
+    
+    <book id="1">
+                                
+        
+        
+        <title>Война и мир</title>
+                                
+        
+        
+        <author>Лев Толстой</author>
+                                
+        
+        
+        <genre>Роман</genre>
+                                
+        
+        
+        <price>10.00</price>
+                                
+        
+        
+        <ammount>5</ammount>
+                            
+    
+    
+    </book>
+                
+    
+    
+    <book id="2">
+                                
+        
+        
+        <title>Преступление и наказание</title>
+                                
+        
+        
+        <author>Фёдор Достоевский</author>
+                                
+        
+        
+        <genre>Роман</genre>
+                                
+        
+        
+        <price>15.00</price>
+                                
+        
+        
+        <ammount>13</ammount>
+                            
+    
+    
+    </book>
+                
+    
+    
+    <book id="3">
+                                
+        
+        
+        <title>Мастер и Маргарита</title>
+                                
+        
+        
+        <author>Булгаков</author>
+                                
+        
+        
+        <genre>Роман</genre>
+                                
+        
+        
+        <price>12.2</price>
+                                
+        
+        
+        <ammount>7</ammount>
+                            
+    
+    
+    </book>
+        
+
+    <book id="4">
+        <title>Ночь в Лиссабоне</title>
+        <author>Ремарк</author>
+        <genre>Роман</genre>
+        <price>23.0</price>
+        <ammount>34</ammount>
+    </book>
+</catalog>
